@@ -8,7 +8,7 @@ import {
 // Replace with your actual constants file path
 import { CLOUD_PROJECT_NUMBER } from '../shared/constants';
 // Replace with your actual PrettyColors component path
-import PrettyColors from '@/components/prettyColors';
+import PrettyColors from '../components/prettyColors';
 
 /**
  * @see {@link https://developers.google.com/meet/add-ons/guides/overview#main-stage}
